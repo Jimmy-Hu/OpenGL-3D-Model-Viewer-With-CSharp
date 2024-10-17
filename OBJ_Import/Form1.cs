@@ -272,6 +272,20 @@ namespace OBJ_Import
             GL.ClearColor(0.0f, 0.0f, 0.0f, 0.0f);
             GL.Enable(EnableCap.DepthTest);//sonradan yazdık
         }
+        private void glControl1_MouseWheel(object sender, MouseEventArgs e)
+        {
+            if (e.Delta > 0)
+            {
+                cameraPos.Y += moveVelocity;
+                coordinateLinesLong += moveVelocity;
+            }
+            else
+            {
+                cameraPos.Y -= moveVelocity;
+                coordinateLinesLong += moveVelocity;
+            }
+            glControl1.Invalidate();
+        }
         private void ModelLoadToBuffer(string filePath)
         {
 
