@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+
+# Compiled Object files
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
