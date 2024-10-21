@@ -2,6 +2,7 @@
 *.d
 
 # Compiled Object files
+*.slo
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
