@@ -3,6 +3,7 @@
 
 # Compiled Object files
 *.slo
+*.lo
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
