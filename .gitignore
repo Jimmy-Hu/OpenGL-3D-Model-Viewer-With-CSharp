@@ -5,6 +5,7 @@
 *.slo
 *.lo
 *.o
+*.obj
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
