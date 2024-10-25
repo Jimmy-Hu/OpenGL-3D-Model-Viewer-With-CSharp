@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+
+# Precompiled Headers
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
