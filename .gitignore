@@ -9,6 +9,7 @@
 
 # Precompiled Headers
 *.gch
+*.pch
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
