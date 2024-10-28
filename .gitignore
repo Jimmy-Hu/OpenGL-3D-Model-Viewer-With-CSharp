@@ -10,6 +10,8 @@
 # Precompiled Headers
 *.gch
 *.pch
+
+# Compiled Dynamic libraries
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
