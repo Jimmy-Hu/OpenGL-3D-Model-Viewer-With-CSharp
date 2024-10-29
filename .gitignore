@@ -12,6 +12,7 @@
 *.pch
 
 # Compiled Dynamic libraries
+*.so
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
