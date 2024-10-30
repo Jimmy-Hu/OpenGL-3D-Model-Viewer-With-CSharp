@@ -13,6 +13,7 @@
 
 # Compiled Dynamic libraries
 *.so
+*.dylib
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
