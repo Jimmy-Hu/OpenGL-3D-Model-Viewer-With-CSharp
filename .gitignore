@@ -22,6 +22,7 @@
 
 # Compiled Static libraries
 *.lai
+*.la
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
