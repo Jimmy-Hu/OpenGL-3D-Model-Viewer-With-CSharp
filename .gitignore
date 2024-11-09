@@ -24,6 +24,8 @@
 *.lai
 *.la
 *.a
+*.lib
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
