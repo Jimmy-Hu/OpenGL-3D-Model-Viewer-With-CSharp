@@ -27,6 +27,7 @@
 *.lib
 
 # Executables
+*.exe
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
