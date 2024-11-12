@@ -28,6 +28,7 @@
 
 # Executables
 *.exe
+*.out
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
