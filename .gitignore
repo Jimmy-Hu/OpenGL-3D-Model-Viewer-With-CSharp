@@ -29,6 +29,8 @@
 # Executables
 *.exe
 *.out
+*.app
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
